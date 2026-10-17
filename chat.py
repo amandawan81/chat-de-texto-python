@@ -65,7 +65,7 @@ def main(pagina):
             [campo_mensagem, botao_enviar_mensagem]
         ))
         pagina.update()
-
+#flet legado
     popup = ft.AlertDialog(
         open=False, 
         modal=True,
